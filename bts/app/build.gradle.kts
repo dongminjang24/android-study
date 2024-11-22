@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.coco.bts"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.coco.bts"
